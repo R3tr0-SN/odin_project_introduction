@@ -1,2 +1,3 @@
-# odin_project_introduction
-Contains all projects from Introduction Course and some specific lessons.
+# The Odin Project - Introduction Course
+Contains different Project trough the Introduction Course.
+All Projects will be connected by an Landingpage
